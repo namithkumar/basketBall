@@ -119,5 +119,5 @@ function mouseDragged(){
 function mouseReleased(){
     slingshot.fly();
     swishSound.play();
-    //crowdSound.play();
+    crowdSound.play();
 }
